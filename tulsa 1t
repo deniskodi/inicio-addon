@@ -46,7 +46,23 @@
 
 <item>
 <title>[COLOR white][B]EP 7[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd4013a545409cd57e8ae2bc75beee52bba13558</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b221127ff3054d77b08957b63577e7af56d67d25&dn=Tulsa.King.S01E07.1080p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jIreOgxAV7TiyWUg4gRrUCKvLjD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]EP 8[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecf266bc0a321b20a62368a05050a3cca61f1733&dn=Tulsa.King.S01E08.1080p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounceV</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jIreOgxAV7TiyWUg4gRrUCKvLjD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]EP 9[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e06e39e9a2be73048aa61440a179790b9a7bef28&dn=Tulsa.King.S01E09.1080p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jIreOgxAV7TiyWUg4gRrUCKvLjD.jpg</fanart>
 <info></info>
